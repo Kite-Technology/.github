@@ -1,5 +1,5 @@
 # Kite Technology
 
-[中文](./profile/README.md) | English
+[中文](./README.md) | English
 
 (We don't sell kites, really
